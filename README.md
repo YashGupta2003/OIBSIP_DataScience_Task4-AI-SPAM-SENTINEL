@@ -185,9 +185,7 @@ Smooth animations and transitions
 
 Mobile-responsive layout
 
-📸 Screenshots
-Real-Time Detector	Analytics Dashboard	Advanced Analytics
-https://assets/detector.png	https://assets/dashboard.png	https://assets/analytics.png
+
 🎓 Learning Outcomes
 Technical Skills Enhanced
 ✅ End-to-end Machine Learning project development
@@ -228,8 +226,7 @@ Mobile application development
 YASH GUPTA
 Machine Learning Intern at Oasis Infobyte
 
-https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin
-https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github
+
 
 🙏 Acknowledgments
 Oasis Infobyte for providing this internship opportunity
@@ -242,6 +239,7 @@ Open-source community for amazing libraries and tools
 ⭐ If this project helped you, don't forget to give it a star!
 Built with ❤️ as part of Oasis Infobyte Machine Learning Internship
 
-https://img.shields.io/badge/Oasis%2520Infobyte-Internship-success?style=for-the-badge
+
 
 </div> ```
+
